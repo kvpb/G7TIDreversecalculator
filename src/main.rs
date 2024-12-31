@@ -127,14 +127,10 @@ fn main()
 } // Rust is a wonder. I am doing my career with it!
 
 /*//	main.rs
-////	G7TID Reverse Calculator
+////	BCG7TID (G7TID Reverse Calculator)
 ////
-////	Karl V. P. B. `kvpb` AKA Karl Thomas George West `ktgw`
-////	+1 (DDD) DDD-DDDD
-////	+33 A BB BB BB BB
+////	Karl V. P. B. `kvpb`	AKA Karl Thomas George West `ktgw`
+////	+33 A BB BB BB BB		+1 (DDD) DDD-DDDD
 ////	local-part@domain
-////	local-part@domain
-////	https://www.linkedin.com/in/
 ////	https://twitter.com/ktgwkvpb
-////	https://github.com/kvpb
-*///	https://vm.tiktok.com/ZSwAmcFh/
+*///	https://github.com/kvpb
